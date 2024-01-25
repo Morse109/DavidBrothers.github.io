@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morse News Hub</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Morse News Hub</h1>
+    </header>
+
+    <main>
+        <section>
+            <p>Discover the latest and most exciting news from around the world. Morse News Hub is your go-to source for up-to-date information, captivating stories, and insightful articles that matter to you.</p>
+        </section>
+
+        <section>
+            <h2>Featured Article</h2>
+            <p>Explore our featured article on the unforgettable events of Groundhog Day in Punxsutawney. From unexpected surprises to heartwarming moments, this article captures the essence of the celebration in 2023.</p>
+            <p><a href="groundhog_day_2023.html">Read more</a></p>
+        </section>
+    </main>
+
+</body>
+</html>
+file:///C:/Users/david/OneDrive/Desktop/!DOCTYPE%20html.pdf
+https://weather.com/weather/radar/interactive/l/Punxsutawney+PA?canonicalCityId=f1ceb606433df57585bf897b1ce88fcdb41b7f4065577180738f7e4bfafd9c87
